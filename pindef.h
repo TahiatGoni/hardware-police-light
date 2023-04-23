@@ -1,0 +1,4 @@
+#define BLUE_LED_PIN 15
+#define RED_LED_PIN 16
+#define ON_OFF_BTN_PIN 12
+#define TOGGLE_BTN_PIN 10
