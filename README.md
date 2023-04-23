@@ -32,3 +32,11 @@ make
 # Demo
 https://user-images.githubusercontent.com/46511001/233817653-f877f24e-64b4-447e-94d3-ab689b914290.mp4
 
+# Reflecting Back
+Good "Hello World!" type starting point for someone who had previously done some projects in school as part of Coursework.
+Wiring could be better but focusing on the programming side of things for now.
+
+### Future extensions possible with the pico w:
+- Add buzzer for sound
+- Report sent to an api showing when the lights were turned on and off
+
