@@ -17,6 +17,8 @@ Blue LED connected to pin 15 and GND with a 220 Ohm resistor in series.
 The 3.3V output of the pico connected to one of the ends of the push buttons.
 The other end of the push buttons connected to the ground with 220 Ohm resistors. From this end, also draw wires to pin 12 for one (On/Off button), and pin 10 for the other (Pattern toggle button).
 
+![circuit](https://user-images.githubusercontent.com/46511001/233819066-8c71dc7b-f2d6-4c1c-a37d-be6b7ac92736.png)
+
 # Build instructions
 Assuming that the pico sdk is set up properly.
 - create a build folder and move into it.
